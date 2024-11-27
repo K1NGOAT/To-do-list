@@ -16,10 +16,10 @@ A simple and efficient to-do list application that helps users manage their task
 1. Clone the repository:
    ```bash
    git clone https://github.com/K1NGOAT/To-do-list.git
-Open index.html in your web browser.
+2. Open index.html in your web browser.
 
-Usage
-Open the application in your web browser.
+##Usage
+- Open the application in your web browser.
 
 Add tasks to the list by entering text in the input field and clicking the "Add" button.
 
