@@ -18,7 +18,7 @@ A simple and efficient to-do list application that helps users manage their task
    git clone https://github.com/K1NGOAT/To-do-list.git
 2. Open index.html in your web browser.
 
-##Usage
+## Usage
 - Open the application in your web browser.
 
 Add tasks to the list by entering text in the input field and clicking the "Add" button.
